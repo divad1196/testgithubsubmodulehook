@@ -1,0 +1,3 @@
+[submodule "SnakeCPP"]
+	path = SnakeCPP
+	url = git@github.com:divad1196/SnakeCPP.git
